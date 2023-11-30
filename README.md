@@ -1,3 +1,5 @@
+My OscarZuniga#1194
+
 # lottery.aleo
 
 ## Run Guide
